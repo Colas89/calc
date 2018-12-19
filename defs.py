@@ -11,5 +11,5 @@ def add (num1,num2):
 def del_slash (num1,num2):
     return num1/num2
 
-def factorial (num1,num2):
+def xeponent (num1,num2):
     return num1**num2
