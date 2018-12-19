@@ -12,7 +12,7 @@ sub = defs.minus
 mul = defs.mul
 add = defs.add
 del_slash = defs.del_slash
-factorial = defs.factorial
+exponent = defs.exponent
 
 
 calculator = {
@@ -20,7 +20,7 @@ calculator = {
     '-': sub,
     '+': add,
     '/': del_slash,
-    '**': factorial
+    '**': exponent
 }
 
 
